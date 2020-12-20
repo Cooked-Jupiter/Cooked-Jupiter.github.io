@@ -2,5 +2,5 @@ img {
     height: 25%;
     width: 25%;
     right: 20px;
-    position: fixed;
+    position: absolute;
 }
