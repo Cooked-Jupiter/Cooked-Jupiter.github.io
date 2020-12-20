@@ -1,0 +1,18 @@
+footer li {
+    display: inline-block;
+    margin-right: 25px;
+    text-align: center;
+  }
+
+body {
+    background-color: whitesmoke;
+}
+
+#right{
+    float: right;
+}
+
+#profile
+{
+    border-radius: 50%;
+}
